@@ -1,0 +1,13 @@
+{
+    "name": "Whirlpool",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-06-13 18:57:49",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "flaME 1.19 MonoDevelop Microsoft .NET"
+}

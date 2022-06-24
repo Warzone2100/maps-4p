@@ -1,0 +1,1 @@
+A 2x2 team battle map. Each player has a chokepoint to defend, observable from highground.

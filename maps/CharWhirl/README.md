@@ -1,0 +1,1 @@
+No, it is not like what you think but.....Well, this is a regular map,with scavenger, 4 player map, 7 oil per base (Actually every player can get additional 1 oil from scavengers), and weak starting defense. Note that the scavenger have some stolen technologies, and they may or may not stolen from you-know-who.

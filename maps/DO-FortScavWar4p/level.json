@@ -1,0 +1,13 @@
+{
+    "name": "DO-FortScavWar4p",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Doruletz"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-01-16 09:17:57",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

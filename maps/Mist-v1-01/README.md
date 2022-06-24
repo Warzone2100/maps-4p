@@ -1,0 +1,1 @@
+A 4-player FFA battleground. Initial bases are a bit tight, so you'd need to fight not only for oil but also for room.

@@ -1,0 +1,1 @@
+A low-oil four-player FFA map with ultra rough mountains and and long narrow passages.

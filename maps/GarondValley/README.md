@@ -1,0 +1,1 @@
+This is a mountain tileset map I've created to promote an intensive dispute over resources. They are evidently marked on the map, so everyone can find them easily. This map promotes extended games since the bases are naturally strongly fortified (by cliffs).

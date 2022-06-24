@@ -1,0 +1,13 @@
+{
+    "name": "NovaTown",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "Mysteryem"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2014-02-03 21:38:21",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.27 Windows"
+}

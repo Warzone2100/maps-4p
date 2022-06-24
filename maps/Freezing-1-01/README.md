@@ -1,0 +1,1 @@
+Medium-size FFA map with relatively clean texturing and richly varied terrain heightmap. 8 oils per player.

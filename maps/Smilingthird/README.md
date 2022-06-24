@@ -1,0 +1,2 @@
+A map for players, who are professionals in near battles and masters in unit-handling. Theres is no direct way to the enemies. You have to choose the way to the center of the map. Here are the fight for the oil. I like this map. Without scavs there is action against strong nullbots after 3 minutes. I needed 4 attempst to win. Very hard. 
+Find your strategy. It is not a map for the research and defense-players. Have fun

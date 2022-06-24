@@ -1,0 +1,2 @@
+In the new Ice age the scavs captured a city with a large science center. They are now in possession of new wall-structures and weapons. But they are not strong enough. So-a short trip into the last green city with his worthwhile destinations (6 oil) could be a good idea. 
+Have fun

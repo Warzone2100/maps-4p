@@ -1,0 +1,13 @@
+{
+    "name": "CharWhirl",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Carcha"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-11-22 22:12:22",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Windows"
+}

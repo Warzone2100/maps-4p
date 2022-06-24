@@ -1,0 +1,1 @@
+An asymmetrical map for 2v2 at low oil. For team play. Best team set up is (0, 3) vs (1, 2)

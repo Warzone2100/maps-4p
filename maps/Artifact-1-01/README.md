@@ -1,0 +1,1 @@
+A wide 4-player FFA map. Includes unrealistically strong scavengers.

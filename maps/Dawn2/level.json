@@ -1,0 +1,21 @@
+{
+    "name": "Dawn2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "Berg"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-05-20 17:32:26",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Windows",
+    "additional-authors": [
+        {
+            "name": "Fabio_IT_[BDC]"
+        },
+        {
+            "name": "Diorama"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+A 2x2 team map with a lot of log cabins. 
