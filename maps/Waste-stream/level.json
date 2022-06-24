@@ -1,0 +1,13 @@
+{
+    "name": "Waste-stream",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Virus- A"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-06-06 16:52:54",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.28 Windows"
+}

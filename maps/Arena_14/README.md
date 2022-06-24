@@ -1,0 +1,1 @@
+This is the urban arena I've created, with great attention to detail and texturing. It supports free-for-all, 1x1 (with two building grounds for each player) or 2x2 gameplay.

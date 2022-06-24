@@ -1,0 +1,13 @@
+{
+    "name": "Smilingthird",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "montetank"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2014-05-24 16:52:18",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}

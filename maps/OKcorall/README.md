@@ -1,0 +1,1 @@
+A typically arizona map. OKcorral. Who was the bad? Who was the good? And who was the ugly?- last question is easy answerd-the scavs. It is a small 4 player map (90-90) with 4 oils at the base and 20 at the terrain +1 by the scavs. It is a quick rush-map. You must be faster as the Earps or Doc Holliday. Have fun

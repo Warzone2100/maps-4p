@@ -1,0 +1,1 @@
+4-player-map (size 160/160). Symmetric. (some features not). 4 derricks at the base +28/terrain. But the scavs are the problem. There is a large scavenger presence at the center of the map on a very high plateau, controling 8 oils. Destroying them and claiming their oil is a top priority if you want to win

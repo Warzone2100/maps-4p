@@ -1,0 +1,1 @@
+A low oil 2x2 battle, with optional blocking scavengers and complicated middleground.

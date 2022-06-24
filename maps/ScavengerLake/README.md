@@ -1,0 +1,1 @@
+A basic map with Scavenger naval units and 4 players.

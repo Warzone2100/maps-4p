@@ -1,0 +1,13 @@
+{
+    "name": "Viborillas",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Virus- A"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-01-16 14:47:00",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}

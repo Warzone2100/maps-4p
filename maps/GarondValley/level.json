@@ -1,0 +1,13 @@
+{
+    "name": "GarondValley",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Olrox"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2013-04-28 17:37:58",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}

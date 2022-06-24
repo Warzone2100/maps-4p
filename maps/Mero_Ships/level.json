@@ -1,0 +1,13 @@
+{
+    "name": "Mero_Ships",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Merowingg"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2013-01-24 21:06:01",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.27 Windows"
+}
