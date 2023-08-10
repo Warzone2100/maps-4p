@@ -1,0 +1,13 @@
+{
+    "name": "Castles_1",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "r3d3"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-01-31 15:03:30",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Boneyard",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "Mynameismethos"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-06-10 10:31:00",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

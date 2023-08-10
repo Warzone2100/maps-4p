@@ -1,0 +1,13 @@
+{
+    "name": "CrossSection",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "$$$john$$$"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-03-19 04:10:32",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Brusque",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "Bonsaiheld"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-05-31 22:52:56",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

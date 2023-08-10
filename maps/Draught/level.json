@@ -1,0 +1,13 @@
+{
+    "name": "Draught",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "sensor"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-08-26 18:55:08",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.21 Windows"
+}

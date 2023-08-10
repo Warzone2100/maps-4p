@@ -1,0 +1,13 @@
+{
+    "name": "AndroxxCastles",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Androxx Traxxon"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-06-05 13:32:13",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

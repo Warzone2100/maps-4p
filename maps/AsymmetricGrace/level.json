@@ -1,0 +1,13 @@
+{
+    "name": "AsymmetricGrace",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "ScEEcH452"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2012-01-16 15:13:41",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.23 Windows"
+}
