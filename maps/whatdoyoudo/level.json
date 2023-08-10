@@ -1,0 +1,13 @@
+{
+    "name": "whatdoyoudo",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "$$john$$$"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2010-12-26 07:05:16",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

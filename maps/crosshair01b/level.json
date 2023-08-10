@@ -1,0 +1,13 @@
+{
+    "name": "crosshair01b",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "z0fa"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-04-22 23:49:54",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.17 Visual Basic 2010"
+}

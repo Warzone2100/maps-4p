@@ -1,0 +1,13 @@
+{
+    "name": "generals_map2vs2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Sasha11273"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2015-02-23 03:03:10",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

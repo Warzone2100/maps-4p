@@ -1,0 +1,13 @@
+{
+    "name": "test",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "vaut"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2020-04-01 15:10:02",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

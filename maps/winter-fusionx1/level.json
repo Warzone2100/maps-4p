@@ -1,0 +1,13 @@
+{
+    "name": "winter-fusionx1",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "core"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-04-10 02:29:50",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

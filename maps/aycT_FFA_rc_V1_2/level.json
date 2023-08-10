@@ -1,0 +1,13 @@
+{
+    "name": "aycT_FFA_rc_V1_2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "aycT"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-10-15 07:49:36",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.22 Windows"
+}

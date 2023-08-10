@@ -1,0 +1,13 @@
+{
+    "name": "challenge_byklub",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "klubowicz"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-01-22 21:12:38",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "supermap2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "batman"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-02-07 20:29:33",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
