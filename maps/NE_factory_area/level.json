@@ -1,0 +1,13 @@
+{
+    "name": "NE_factory_area",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "Beholder"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-07-12 13:47:58",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

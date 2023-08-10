@@ -1,0 +1,13 @@
+{
+    "name": "RAM-TWIST",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "ORPHAN-FOUR"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-03-31 22:02:24",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

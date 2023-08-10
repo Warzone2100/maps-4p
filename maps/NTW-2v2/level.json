@@ -1,0 +1,13 @@
+{
+    "name": "NTW-2v2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "NZT"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-11-02 23:27:50",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

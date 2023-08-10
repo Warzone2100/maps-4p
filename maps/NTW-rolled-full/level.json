@@ -1,0 +1,13 @@
+{
+    "name": "NTW-rolled-full",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "MaX"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2019-07-21 19:58:54",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

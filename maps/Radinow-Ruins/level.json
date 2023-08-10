@@ -1,0 +1,13 @@
+{
+    "name": "Radinow-Ruins",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Fussel"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2012-08-22 02:04:53",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

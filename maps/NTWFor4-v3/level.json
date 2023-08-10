@@ -1,0 +1,13 @@
+{
+    "name": "NTWFor4-v3",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "bendib"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-04-02 16:22:46",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.13"
+}

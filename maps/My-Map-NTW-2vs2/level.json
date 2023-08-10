@@ -1,0 +1,13 @@
+{
+    "name": "My-Map-NTW-2vs2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "tommy"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-04-11 18:51:56",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

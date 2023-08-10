@@ -1,0 +1,13 @@
+{
+    "name": "RedRock_V1_3",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "CobraCom"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-11-24 09:38:44",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}
