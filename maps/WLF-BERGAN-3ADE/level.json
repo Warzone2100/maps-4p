@@ -1,0 +1,13 @@
+{
+    "name": "WLF-BERGAN-3ADE",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "ADOLF"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2016-12-21 19:14:02",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

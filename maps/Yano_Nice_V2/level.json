@@ -1,0 +1,13 @@
+{
+    "name": "Yano_Nice_V2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Yano"
+    },
+    "spdx-license-id": "CC-BY-SA-3.0 OR GPL-2.0-or-later",
+    "created-date": "2011-03-15 16:28:29",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.14"
+}

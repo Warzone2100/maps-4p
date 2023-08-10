@@ -1,0 +1,13 @@
+{
+    "name": "TreeTakeover",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "The Overlord"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-05-24 18:29:32",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

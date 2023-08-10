@@ -1,0 +1,13 @@
+{
+    "name": "SnowedHallsT2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Rugnir"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-05-16 19:26:55",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

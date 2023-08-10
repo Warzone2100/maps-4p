@@ -1,0 +1,13 @@
+{
+    "name": "TheParadigm",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-05-25 10:25:24",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

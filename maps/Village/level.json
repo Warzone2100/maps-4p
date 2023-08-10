@@ -1,0 +1,13 @@
+{
+    "name": "Village",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-11-25 21:41:40",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.20 Mono 2.10.1"
+}

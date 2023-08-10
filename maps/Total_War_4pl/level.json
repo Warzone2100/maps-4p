@@ -1,0 +1,13 @@
+{
+    "name": "Total_War_4pl",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Vicky"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-05-22 21:48:30",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

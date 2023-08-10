@@ -1,0 +1,13 @@
+{
+    "name": "WAKE03",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "LAFIDEMO"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-05-09 18:25:29",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.14"
+}

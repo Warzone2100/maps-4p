@@ -1,0 +1,13 @@
+{
+    "name": "Terra",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "sensor"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-05-02 21:48:32",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.18 Visual Basic 2010"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ScavArtifact",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Axel"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-05-20 14:06:46",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

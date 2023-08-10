@@ -1,0 +1,13 @@
+{
+    "name": "SpecialTeamDuel",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Creek"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-03-14 10:42:00",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.14"
+}

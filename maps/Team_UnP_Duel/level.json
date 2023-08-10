@@ -1,0 +1,13 @@
+{
+    "name": "Team_UnP_Duel",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "UnP_eXtreme"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-07-23 16:24:40",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.20 Windows"
+}
