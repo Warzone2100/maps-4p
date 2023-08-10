@@ -1,0 +1,13 @@
+{
+    "name": "ISATeamDuel",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "ISA-Excalibur"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-05-16 15:49:07",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.27 Windows"
+}

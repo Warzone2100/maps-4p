@@ -1,0 +1,13 @@
+{
+    "name": "MiddleCity",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Potato_King"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-03-10 20:41:17",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.14"
+}

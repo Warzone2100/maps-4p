@@ -1,0 +1,13 @@
+{
+    "name": "MapOne4FourV7",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Subsentient aka bendib"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2012-01-18 03:13:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Mono 2.10"
+}

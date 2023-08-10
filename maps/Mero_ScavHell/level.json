@@ -1,0 +1,13 @@
+{
+    "name": "Mero_ScavHell",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Merowingg"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2010-12-07 19:44:12",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

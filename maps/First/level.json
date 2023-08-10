@@ -1,0 +1,13 @@
+{
+    "name": "First",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "aycT"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-11-04 15:31:03",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.21 Windows"
+}

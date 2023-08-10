@@ -1,0 +1,13 @@
+{
+    "name": "Lost_Temple_v4",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Zamaszysty"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2010-12-27 00:47:18",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.12"
+}

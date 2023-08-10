@@ -1,0 +1,13 @@
+{
+    "name": "Los-Murovanos",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "AycT"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-11-24 20:21:22",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.21 Windows"
+}

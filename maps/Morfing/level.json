@@ -1,0 +1,13 @@
+{
+    "name": "Morfing",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "sensor"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-11-06 11:16:37",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.23 Windows"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "FlorestAssalt",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "The New Light"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-11-03 14:10:10",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

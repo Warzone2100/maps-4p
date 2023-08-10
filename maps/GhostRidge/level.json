@@ -1,0 +1,13 @@
+{
+    "name": "GhostRidge",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Gaurav"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-11-09 11:27:28",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.15"
+}
