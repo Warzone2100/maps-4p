@@ -1,0 +1,1 @@
+Strong scavs and a low defense for all teams, I recommend playing with Ultimate Scavengers.
