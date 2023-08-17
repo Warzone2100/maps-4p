@@ -1,0 +1,13 @@
+{
+    "name": "DA-julia-40oil4p",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "Next"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2018-05-17 22:56:42",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
