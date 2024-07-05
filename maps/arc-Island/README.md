@@ -1,0 +1,1 @@
+A tiny low oil map with rich strategic options. Each player has easy access to positions overlooking enemy territory, making oil resources hard to defend. The tight inland geography makes land assaults difficult, while the bases on the coast are vulnerable to attack by hover units.

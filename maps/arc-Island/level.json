@@ -1,0 +1,13 @@
+{
+    "name": "arc-Island",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2024-07-02 23:09:48",
+    "generator": "wzmaplib 1.2.6",
+    "prior-generator": "FlaME 1.29 Windows"
+}
