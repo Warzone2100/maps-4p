@@ -1,0 +1,13 @@
+{
+    "name": "RoadsideFixdDot2",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "Xlutch"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2024-10-17 17:31:31",
+    "generator": "wzmaplib 1.2.7",
+    "prior-generator": "FlaME - Json 1.29.4.3 Windows"
+}
