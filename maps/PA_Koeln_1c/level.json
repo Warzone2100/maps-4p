@@ -1,0 +1,13 @@
+{
+    "name": "PA_Koeln_1c",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "wanz"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2026-01-09 23:02:59",
+    "generator": "wzmaplib 1.4.4",
+    "prior-generator": "FlaME 1.29 Windows"
+}
