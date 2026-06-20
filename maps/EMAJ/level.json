@@ -1,0 +1,13 @@
+{
+    "name": "EMAJ",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "arizona",
+    "author": {
+        "name": "arc"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2026-04-27 00:34:50",
+    "generator": "wzmaplib 1.4.4",
+    "prior-generator": "FlaME 1.29 Windows"
+}
